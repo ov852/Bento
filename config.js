@@ -43,15 +43,15 @@ const CONFIG = {
     },
     {
       id: '2',
-      name: 'Mail',
-      icon: 'mail',
-      link: 'https://mail.protonmail.com/',
+      name: 'Youtube',
+      icon: 'youtube',
+      link: 'https://www.youtube.com',
     },
     {
       id: '3',
-      name: 'Todoist',
-      icon: 'trello',
-      link: 'https://calendar.google.com/calendar/r',
+      name: 'Wilma',
+      icon: 'book',
+      link: 'https://helsinki.inschool.fi',
     },
     {
       id: '4',
@@ -61,15 +61,15 @@ const CONFIG = {
     },
     {
       id: '5',
-      name: 'Reddit',
-      icon: 'bookmark',
-      link: 'https://reddit.com',
+      name: 'Twitter',
+      icon: 'twitter',
+      link: 'https://twitter.com',
     },
     {
       id: '6',
-      name: 'Odysee',
-      icon: 'youtube',
-      link: 'https://odysee.com/',
+      name: 'Maps',
+      icon: 'map-pin',
+      link: 'https://www.google.com/maps',
     },
   ],
 
