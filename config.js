@@ -78,45 +78,45 @@ const CONFIG = {
   // ┴─┘┴└─┘ ┴ └─┘
 
   //Icons
-  firstListIcon: 'music',
-  secondListIcon: 'coffee',
+  firstListIcon: 'briefcase',
+  secondListIcon: 'tv',
 
   // Links
   lists: {
     firstList: [
       {
-        name: 'Inspirational',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'Drive',
+        link: 'https://drive.google.com',
       },
       {
-        name: 'Classic',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'Classroom',
+        link: 'https://classroom.google.com',
       },
       {
-        name: 'Oldies',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'Keep',
+        link: 'https://keep.google.com',
       },
       {
-        name: 'Rock',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'Translate',
+        link: 'https://translate.google.com',
       },
     ],
     secondList: [
       {
-        name: 'Linkedin',
-        link: 'https://linkedin.com/',
+        name: 'Helsingin Sanomat',
+        link: 'https://hs.fi',
       },
       {
-        name: 'Figma',
-        link: 'https://figma.com/',
+        name: 'Yle Uutiset',
+        link: 'https://yle.fi',
       },
       {
-        name: 'Dribbble',
-        link: 'https://dribbble.com',
+        name: 'Mikrobitti',
+        link: 'https://www.mikrobitti.fi',
       },
       {
-        name: 'Telegram',
-        link: 'https://webk.telegram.org',
+        name: 'Google News',
+        link: 'https://news.google.com',
       },
     ],
   },
