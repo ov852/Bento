@@ -11,22 +11,22 @@ const CONFIG = {
   // └─┘┴ ┴└─┘┴└─┘└─┘
 
   // General
-  name: 'John',
+  name: 'Okko',
   imageBackground: false,
-  openInNewTab: true,
+  openInNewTab: false,
 
   // Greetings
-  greetingMorning: 'Good morning!',
-  greetingAfternoon: 'Good afternoon,',
-  greetingEvening: 'Good evening,',
-  greetingNight: 'Go to Sleep!',
+  greetingMorning: 'Rise and shine,',
+  greetingAfternoon: 'Greetings,',
+  greetingEvening: 'Have a great evening,',
+  greetingNight: "Have a good night's sleep,",
 
   // Weather
   weatherKey: '28ab79e105acf332be4c914ffe12f862',
   weatherIcons: 'OneDark', // 'Nord', 'Dark', 'White'
   weatherUnit: 'C',
-  weatherLatitude: '37.774929',
-  weatherLongitude: '-122.419418',
+  weatherLatitude: '60.169857',
+  weatherLongitude: '24.938379',
   
 
   // ┌─┐┌─┐┬─┐┌┬┐┌─┐
@@ -37,9 +37,9 @@ const CONFIG = {
   cards: [
     {
       id: '1',
-      name: 'Github',
-      icon: 'github',
-      link: 'https://github.com/',
+      name: 'Gmail',
+      icon: 'mail',
+      link: 'mail.google.com',
     },
     {
       id: '2',
