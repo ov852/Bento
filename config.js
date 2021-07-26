@@ -12,7 +12,7 @@ const CONFIG = {
 
   // General
   name: 'Okko',
-  imageBackground: false,
+  imageBackground: true,
   openInNewTab: false,
 
   // Greetings
